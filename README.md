@@ -20,6 +20,8 @@ The user can click on navigation links for each topic and be taken to a page sec
 The page has been optimized for accessibility, code organization and readability, and DRY.
 
 ## Page Image
+<img url="assets\images\accessibility opto 1 of 2.png">
+<img url="assets\images\accessibility opto 2 of 2.png">
 
 ## Link to live page
 
