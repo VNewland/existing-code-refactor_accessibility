@@ -20,8 +20,8 @@ The user can click on navigation links for each topic and be taken to a page sec
 The page has been optimized for accessibility, code organization and readability, and DRY.
 
 ## Page Image
-![SEO page screenshot 1 of 2](assets\images\accessibility opto 1 of 2.png)
-![SEO page screenshot 2 of 2](assets\images\accessibility opto 2 of 2.png)
+![SEO page screenshot 1 of 2](https://github.com/VNewland/existing-code-refactor_accessibility/blob/main/assets/images/accessibility%20opto%201%20of%202.png)
+![SEO page screenshot 2 of 2](https://github.com/VNewland/existing-code-refactor_accessibility/blob/main/assets/images/accessibility%20opto%202%20of%202.png)
 
 ## Link to live page
 
