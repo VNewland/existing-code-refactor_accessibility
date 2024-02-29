@@ -24,6 +24,7 @@ The page has been optimized for accessibility, code organization and readability
 ![SEO page screenshot 2 of 2](https://github.com/VNewland/existing-code-refactor_accessibility/blob/main/assets/images/accessibility%20opto%202%20of%202.png)
 
 ## Link to live page
+https://vnewland.github.io/existing-code-refactor_accessibility/
 
 ## Credits
 
